@@ -111,7 +111,7 @@ function calculate()
                 </td>
               </tr>
               <tr> 
-                <td width="255" valign="middle"><b>Цвет: </b></td>
+                <td width="255" valign="middle"><b>Колір: </b></td>
 <td width="255"> 
 <select name="WColor">
  <option value="1">1 - Білий або коричневий *</option>
