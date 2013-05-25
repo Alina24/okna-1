@@ -4,7 +4,7 @@
 <title> Window_calc </title>
 </head>
 <body>
-<a href="calc.php"> Посчитать</a><br>
- <a href="1.php"> Заказать</a>
+<a href="calc.php"> Порахувати</a><br>
+ <a href="1.php"> Заказати</a>
 </body>
 </html>
