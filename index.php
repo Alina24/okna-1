@@ -4,7 +4,7 @@
 <title> Вікна </title>
 </head>
 <body>
-<a href="calc.php"> Порахувати</a><br>
- <a href="1.php"> Заказати</a>
+<a href="form.php"> Порахувати</a><br>
+ <a href="mmr.php"> Заказати</a>
 </body>
 </html>
