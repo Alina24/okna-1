@@ -1,7 +1,7 @@
 <html>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <head>
-<title> Window_calc </title>
+<title> Вікна </title>
 </head>
 <body>
 <a href="calc.php"> Порахувати</a><br>
